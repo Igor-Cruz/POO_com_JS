@@ -11,4 +11,4 @@ console.log(carro)
 //Tipos de acesso ao objeto
 
 console.log(carro.portas)
-console.log(carro[cor])
+console.log(carro['cor'])
